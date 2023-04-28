@@ -50,7 +50,7 @@ __decorate([
         schema: {
             example: {
                 email: 'test@gmail.com',
-                password: '$2b$10$Z07vX61kh5r4KaDQmWLRI.IlCxFIWqUaJACPnep7xHmONfnHFUimS',
+                password: '$2b$10$Z07vX61kh5--------.....',
                 nickname: 'testuser',
                 user_id: 1,
                 created_date: '2023-04-21T02:55:12.084Z',
